@@ -1,1 +1,1 @@
-接口自动化项目
+NexusFTX的python接口自动化项目
